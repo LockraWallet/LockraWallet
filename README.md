@@ -2,7 +2,7 @@
 
 **Lockra** is a secure, AI-powered wallet that anticipates risks, monitors assets silently, and protects every move — built for seamless control on Solana.
 
-🔑 Key Features
+## 🔑 Key Features
 
 ### 🧪 ThreatScan Engine  
 Detects risky token properties such as:
